@@ -1,4 +1,4 @@
-package app.template.extension.extension;
+package dk.lasserewers.extension.example;
 
 @SuppressWarnings("unused")
 public class ExamplePatch {
