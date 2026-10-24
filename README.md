@@ -1,16 +1,14 @@
-# 👋🧩 Morphe Patches template
+# 🧩 Lasses patches
 
-Template repository for Morphe Patches.
+Lasse Rewers' own patches for use with [Morphe](https://morphe.software). Not affiliated with the Morphe project.
 
 ## ❓ About
 
-Patches for apps I like.
-
-<!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
+Small, personal patches for Android apps I use. Which apps and what each patch does is listed below once the first release is out.
 
 ### How to use these patches
 
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=xyz-user/xyz-patches
+Click here to add these patches to Morphe: https://morphe.software/add-source?github=lasserewers/lasse-patches
 
 ## 🩹 Patches list
 
@@ -88,4 +86,4 @@ See the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation
 
 ## 📜 License
 
-UserXYZ Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+Lasses patches are licensed under the [GNU General Public License v3.0](LICENSE)
